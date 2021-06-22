@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ReconocimientoVoz</string>
+    <string name="am_b_iniciar">Iniciar</string>
+    <string name="am_b_detener">Detener</string>
+</resources>
